@@ -1,0 +1,1 @@
+iniziamo a costruire il nostro e commerce simulando come fossimo in un progetto vero con altre persone.
